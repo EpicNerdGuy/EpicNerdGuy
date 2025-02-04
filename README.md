@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 18 year old aspiring open source contributor and cybersecurity enthusiast.<br>
+Aspiring Jr Pentester| Reverse Engineering | Crytpography and Web3 enthusiast.<br>
 
 
 ## 🌐 Socials:
