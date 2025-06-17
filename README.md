@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hey there! I'm **Advik Kant**, **CS undergrad** with a deep interest in **cybersecurity, penetration testing, web3, and cryptography**. Currently working towards becoming a **Junior Penetration Tester** and enhancing my **reverse engineering** skills!
+Hey there! I'm **Advik Kant**, **CS undergrad** with a deep interest in **cybersecurity, penetration testing, web3, and cryptography**. Currently working towards becoming a **Junior Penetration Tester** and enhancing my **Bug Bounty** skills!
 
-🔭 **Currently Working On:** Jr. Penetration Testing, Cryptographic Implementations, Reverse Engineering 
+🔭 **Currently Working On:** Jr. Penetration Testing, Cryptographic Implementations, Python and C scripts
 
 ---
 
@@ -19,10 +19,6 @@ Hey there! I'm **Advik Kant**, **CS undergrad** with a deep interest in **cybers
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </p>
 
@@ -32,17 +28,17 @@ Hey there! I'm **Advik Kant**, **CS undergrad** with a deep interest in **cybers
 - **Reverse Shell Project** – Built a client-server reverse shell and shared insights on its working.  
   [View on GitHub](https://github.com/EpicNerdGuy/Reverse-Shell-script)
 - **Keylogger Script** – Developed a Python-based keylogger for cybersecurity research.  
+  [View on GitHub](https://github.com/EpicNerdGuy/ShadowLoggerX)
+- **TCP Chat Server** – Developed a C-based TCP chat server.
   [View on GitHub](https://github.com/EpicNerdGuy/Python-Keylogger)
-- **Wireshark Network Analysis** – Conducted network security assessments using packet capture and analysis.  
-- **Cryptographic Key Management System** – Designed a system to generate and manage encryption keys for IoT security.
+- **Cryptographic Ciphers** –Implementation of important ciphers in python
+  [View on GitHub](https://github.com/EpicNerdGuy/Ciphers)
 
 ---
 
 ## 🛠️ Skills:
 - **Penetration Testing & Ethical Hacking** 🔥  
-- **Cryptographic Systems & Key Management** 🔐  
-- **Reverse Engineering & Malware Analysis** 🛡️  
-- **Smart Contracts & Blockchain Security** ⛓️  
+- **Cryptographic Systems & Key Management** 🔐   
 - **Backend Development (Minimal Frontend 😆)** 🏗️  
 - **Low-Level Programming & Exploit Development** ⚡  
 
