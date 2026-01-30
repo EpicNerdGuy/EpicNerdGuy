@@ -1,9 +1,9 @@
-# 💫 About Me:
+# About Me:
 **Hey, I’m Advik (aka Deoxys)!**  
 An aspiring **Junior Penetration Tester** and **Bug Bounty Hunter** with a growing passion for **reverse engineering** and **cryptography**.  
 
-🌐 **Website:** [deoxys.dev](https://deoxys.dev/)  
-📝 **Blogs:** [deoxys.dev/blogs](https://deoxys.dev/blogs)
+**Website:** [deoxys.dev](https://deoxys.dev/)  
+**Blogs:** [deoxys.dev/blogs](https://deoxys.dev/blogs)
 
 
 <p align="center">
@@ -15,7 +15,7 @@ An aspiring **Junior Penetration Tester** and **Bug Bounty Hunter** with a growi
 
 ---
 
-## 🌐 Connect With Me:  
+## Connect With Me:  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Advik_Kant)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:advikkant13@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/StealthyDeoxys)
@@ -26,7 +26,7 @@ An aspiring **Junior Penetration Tester** and **Bug Bounty Hunter** with a growi
 
 ---
 
-## 🔥 Tech Stack:  
+## Tech Stack:  
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -49,7 +49,7 @@ An aspiring **Junior Penetration Tester** and **Bug Bounty Hunter** with a growi
 
 ---
 
-### 🧑‍💻 Programming & Scripting
+### Programming & Scripting
 
 ## **Python Projects**
 - [FileEclipse](https://github.com/EpicNerdGuy/FileEclipse) – Magic number + heuristic‑based file type detector  
@@ -66,7 +66,7 @@ An aspiring **Junior Penetration Tester** and **Bug Bounty Hunter** with a growi
 
 ---
 
-### 🔍 Reverse Engineering & Binary Exploitation
+### Reverse Engineering & Binary Exploitation
 - x86 Assembly basics & stack tracing  
 - Disassembly reading (objdump, Ghidra)  
 - Malware analysis fundamentals  
@@ -74,7 +74,7 @@ An aspiring **Junior Penetration Tester** and **Bug Bounty Hunter** with a growi
 
 ---
 
-### 🎯 Security Research & Bug Bounty
+### Security Research & Bug Bounty
 - Recon (ASNs, intel gathering, subdomain enumeration)  
 - Writing PoCs  
 - Creating clear security writeups  
@@ -82,7 +82,7 @@ An aspiring **Junior Penetration Tester** and **Bug Bounty Hunter** with a growi
   - [forceit](https://github.com/EpicNerdGuy/forceit) – Simple automation tool for brute‑forcing and recon tasks
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <p align="center">
 
