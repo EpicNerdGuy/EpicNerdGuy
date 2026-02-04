@@ -19,7 +19,7 @@ An aspiring **Junior Penetration Tester** and **Bug Bounty Hunter** with a growi
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Advik_Kant)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:advikkant13@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/StealthyDeoxys)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/Deoxys13)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/2450133)
 [![HackerOne](https://img.shields.io/badge/HackerOne-111?logo=hackerone&logoColor=white)](https://hackerone.com/kawaii13?type=user)
 
 
@@ -38,9 +38,9 @@ An aspiring **Junior Penetration Tester** and **Bug Bounty Hunter** with a growi
 
 
 ---
-## 🛠️ Skills & Tooling
+## Skills & Tooling
 
-### 🔐 Penetration Testing
+### Penetration Testing
 - Web Exploitation (OWASP Top 10, HTB/PortSwigger labs)  
 - Recon & Enumeration (Nmap, Gobuster, FFUF)  
 - Burp Suite automation & workflow  
