@@ -1,7 +1,5 @@
 # Sup, I'm Deoxy$
 
-Offensive security enthusiast, making cybersecurity great again (hopeful)
-
 <div align="center">
 
 ![Tumblr GIF](https://taeluralexis.com/wp-content/uploads/2023/10/tumblr_mjk9t4LutC1qkai1do1_500-1.gif)
